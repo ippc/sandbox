@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Place to test git workflow and play
+Place to test git workflow and have fun

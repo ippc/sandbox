@@ -42,22 +42,25 @@ Place to test git workflow
 
 1. Create a new branch called 'newfeature' and switch to it
 
-    :::bash    
+    ```bash    
     git checkout -b newfeature
+    ````
     
 2. Create a new file for this new feature and add some text to it
 
-    :::bash    
+    ```bash    
     echo 'a text file!' >> newfile.txt
+    ````
 
 3. At end of day or more often as you prefer, commit the changes to this branch
 
-    :::bash    
+    ```bash    
     git add .
     git commit -m 'new feature'
+    ````
 
 4. Push your branch to main repo at end of day (or more often)
 
-    :::bash
+    ```bash    
     git push origin newfeature
-    
+    ````

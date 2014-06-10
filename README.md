@@ -1,6 +1,8 @@
 # Sandbox
 
-Place to test git workflow
+Place to test git workflow.
+
+First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time)
 
 ## Git Workflow
 

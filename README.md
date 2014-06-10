@@ -2,7 +2,7 @@
 
 Place to test git workflow.
 
-First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time)
+1. First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time).
 
 ## Git Workflow
 
@@ -66,3 +66,7 @@ First, [setup git](https://help.github.com/articles/set-up-git) (so you don't ha
     ```bash    
     git push origin newfeature
     ````
+
+## More Information
+
+- [Database Schema Migrations tutorial (uses an app called South. Django 1.7 will have built-in migrations, but we're using 1.5 for IPPC)](http://south.readthedocs.org/en/latest/tutorial/part1.html)

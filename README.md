@@ -2,7 +2,7 @@
 
 Place to document and test git workflow for IPPC work. Here's the setup:
 
-![Drawing by Paola Sentinelli](workflow.jpg)
+![](workflow.jpg "Drawing by Paola Sentinelli")
 
 First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time).
 

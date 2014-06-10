@@ -19,28 +19,16 @@ Place to test git workflow
     cd sandbox && mate .
     ```
 
-3. Create a new branch called 'newfeature' and switch to it
-
-    ```bash    
-    git checkout -b newfeature
-    ```
-    
-4. Create a new file for this new feature and add some text to it
-
-    ```bash    
-    echo 'a text file!' >> newfile.txt
-    ```
-
-5. At end of day or more often as you prefer, commit the changes to this branch
+3. At end of day or more often as you prefer, add your changes to your local staging area and commit them to your local repo
 
     ```bash    
     git add .
-    git commit -m 'new feature'
+    git commit -m 'new work'
     ```
 
-6. Push your branch to main repo at end of day (or more often)
+4. Push your changes to main server at end of day (or more often)
 
     ```bash
-    git push origin newfeature
+    git push origin master
     ```
     

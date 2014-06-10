@@ -73,5 +73,5 @@ Then, [here's a basic guide](http://rogerdudler.github.io/git-guide/) (below is 
 
 ## More Information
 
-- [Database Schema Migrations tutorial (uses an app called South. Django 1.7 will have built-in migrations, but we're using 1.5 for IPPC)](http://south.readthedocs.org/en/latest/tutorial/part1.html)
+- [Database Schema Migrations tutorial (uses an app called South. Django 1.7 will have built-in migrations, but we're using 1.5 for IPPC)](http://south.readthedocs.org/en/latest/tutorial/part1.html). Take note that ippcdj uses a few [existing Mezzanine CMS model fields](http://mezzanine.jupo.org/docs/model-customization.html).
 - [Fabric tutorial for deployment](http://docs.fabfile.org/en/latest/tutorial.html)

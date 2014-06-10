@@ -1,8 +1,12 @@
 # Sandbox
 
-Place to test git workflow.
+Place to document and test git workflow for IPPC work. Here's the setup:
 
-1. First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time).
+=todo: setup diagram
+
+_By Paola Sentinelli_
+
+First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time).
 
 ## Git Workflow
 
@@ -40,7 +44,7 @@ Place to test git workflow.
     git push origin master
     ```
     
-### Branchinch
+### Branching
 
 1. Create a new branch called 'newfeature' and switch to it
 
@@ -70,3 +74,4 @@ Place to test git workflow.
 ## More Information
 
 - [Database Schema Migrations tutorial (uses an app called South. Django 1.7 will have built-in migrations, but we're using 1.5 for IPPC)](http://south.readthedocs.org/en/latest/tutorial/part1.html)
+- [Fabric tutorial for deployment](http://docs.fabfile.org/en/latest/tutorial.html)

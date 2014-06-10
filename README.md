@@ -6,6 +6,8 @@ Place to document and test git workflow for IPPC work. Here's the setup:
 
 First, [setup git](https://help.github.com/articles/set-up-git) (so you don't have to keep putting in  your password every time).
 
+Then, [here's a basic guide](http://rogerdudler.github.io/git-guide/) (below is an example of working with this repository itself).
+
 ## Git Workflow
 
 1. Clone repository from sandbox repo (the first time you start working with it)
